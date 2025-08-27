@@ -10,7 +10,7 @@
         </File>
     </Appenders>
     <Loggers> <!-- Los loggers son los encargados de recibir los logs y enviarlos a los appenders -->
-        <Root level="info"><!-- El nivel de log para el root, como es info, se mostraran los logs de nivel info e inferiores-->
+        <Root level="info"><!-- El nivel de log para el root del proyecto, a sea, es default para todo el sistema-->
             <AppenderRef ref="Console"/> <!-- Se le indica al root que use el appender de la consola -->
             <AppenderRef ref="FileLogger"/>
         </Root>
