@@ -1,0 +1,24 @@
+21:58:19 [main] INFO  com.sebastian.Main - Starting app
+21:58:19 [main] WARN  com.sebastian.Empleado - El Empleado es menor de edad
+21:58:19 [main] WARN  com.sebastian.Empleado - El Empleado es menor de edad
+21:58:19 [main] INFO  com.sebastian.Main - Informacion del empleado Empleado 
+ nombre: juan
+age: 10
+salary:1000000.0
+21:58:19 [main] INFO  com.sebastian.Main - Informacion del gerente Gerente
+department: SalesEmpleado 
+ nombre: juan
+age: 10
+salary:1000000.0
+21:58:19 [main] INFO  com.sebastian.Main - Info: Empleado 
+ nombre: juan
+age: 10
+salary:1010000.0
+21:58:19 [main] INFO  com.sebastian.Main - Info: Gerente
+department: SalesEmpleado 
+ nombre: juan
+age: 10
+salary:1010000.0
+21:58:19 [main] INFO  com.sebastian.Main - Programa finalizado
+21:58:19 [main] ERROR com.sebastian.Main - Mensaje de error 
+21:58:19 [main] FATAL com.sebastian.Main - Mensaje fatal
